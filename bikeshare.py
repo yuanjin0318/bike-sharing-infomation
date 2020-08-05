@@ -196,6 +196,7 @@ def user_stats(df):
 
     
 def display_data(df):
+    """Displays the data."""
     print( "****************************************************************")
     show_or_not = input("\nDo you want to see raw data? Please type \'yes\' or \'no\' \n").lower()
     
@@ -222,7 +223,7 @@ def main():
         user_stats(df)
         display_data(df)
         
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nHello, would you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
