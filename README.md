@@ -7,10 +7,10 @@ This Python 3 script is written to explore data related to bike share systems fo
 This script is written in Python 3 and uses pandas, datetime, time, and csv packages. You will need all of these packages and Python 3 to be able to launch the script. Launch the bikeshare.py file from your terminal and you will see a prompt that will guide your experience reviewing the bikeshare data and reading relevant data analysis. 
 You can also open the Data_Review_Chicago.ipynb file to view much of the data analysis that is provided in the .py file, all relative to Chicago data.
 
-1) download the bikehsare folder onto your computer
-2) open terminal
-3) navigate to the location of your bikeshare folder
-4) type the following into terminal 
+* download the bikehsare folder onto your computer
+* open terminal
+* navigate to the location of your bikeshare folder
+* type the following into terminal 
 / python bikeshare.py /
 
 ## Datasets
