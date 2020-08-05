@@ -196,6 +196,7 @@ def user_stats(df):
 
     
 def display_data(df):
+    """Displays the data."""
     print( "****************************************************************")
     show_or_not = input("\nDo you want to see raw data? Please type \'yes\' or \'no\' \n").lower()
     
