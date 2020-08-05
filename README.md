@@ -57,3 +57,7 @@ User information
 * How does the season impact bikeshare use?
 * Are certain user age groups more likely to use the bikeshare system than others?
 
+
+## Future Outlook
+* Adding more data sets.
+* Building a GUI for various cities users.
